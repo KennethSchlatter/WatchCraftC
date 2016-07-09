@@ -1,0 +1,38 @@
+{
+    "author": "Frosted Torus",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchcraft",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "WatchCraft Color",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "item_name",
+            "section_id",
+            "section_title",
+            "item_recipe_url",
+            "NETDL_DATA",
+            "NETDL_BEGIN",
+            "NETDL_END",
+            "NETDL_CHUNK_SIZE",
+            "NETDL_URL"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "35e0b9a2-e2c5-4c75-8fdd-c4572311157b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "0.1.0"
+}
